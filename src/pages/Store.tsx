@@ -1,8 +1,9 @@
 import { Row, Col } from "react-bootstrap";
-import storeItems from "../data/items.json";
 import { StoreItem } from "../components/StoreItem";
+import { useGetCartItemDatas } from "../hooks/useCartItemData";
 
 export function Store() {
+  const storeItems = useGetCartItemDatas();
   return (
     <>
       <h1>Store</h1>
