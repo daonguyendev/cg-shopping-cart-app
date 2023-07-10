@@ -1,26 +1,38 @@
 [
   {
     "id": 1,
-    "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/imgs/book.jpg"
+    "name": "FullStack (Fulltime)",
+    "price": 855.99,
+    "imgUrl": "/imgs/fullstack-fulltime.jpg"
   },
   {
     "id": 2,
-    "name": "Computer",
-    "price": 1199,
-    "imgUrl": "/imgs/computer.jpg"
+    "name": "Fullstack (Parttime)",
+    "price": 455.99,
+    "imgUrl": "/imgs/fullstack-parttime.jpg"
   },
   {
     "id": 3,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg"
+    "name": "Frontend (Fulltime)",
+    "price": 585.99,
+    "imgUrl": "/imgs/frontend-fulltime.jpg"
   },
   {
     "id": 4,
-    "name": "Car",
-    "price": 14000,
-    "imgUrl": "/imgs/car.jpg"
+    "name": "Frontend (Parttime)",
+    "price": 275.99,
+    "imgUrl": "/imgs/frontend-parttime.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tester (Fulltime)",
+    "price": 545.99,
+    "imgUrl": "/imgs/tester-fulltime.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tester (Parttime)",
+    "price": 255.99,
+    "imgUrl": "/imgs/tester-parttime.jpg"
   }
 ]
